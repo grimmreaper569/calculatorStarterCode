@@ -5,33 +5,33 @@
 
 function divide(x,y) {
 	//Write your code below this line
-
+    return x/y 
 }
 
 function multiply(x,y) {
-
+  return x*y
 }
 
 function subtract(x,y) {
-
+  return x-y 
 }
 
 function add(x,y) {
-
+  return x+y
 }
 
 function power(x,y) {
-
+ return x^y
 }
 
 function square_root(x) {
-
+  math.sprt(x);
 }
 
 function logBase10(x) {
-
+  Math.log(x);
 }
 
 function generateRandomNumber() {
-
+  return Math.random(1-100);
 }
